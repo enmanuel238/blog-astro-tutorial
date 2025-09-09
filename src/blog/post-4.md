@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
 pubDate: 2022-08-08
 title: Mi cuarta entrada en el blog
 author: Alumno de Astro
